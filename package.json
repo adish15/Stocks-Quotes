@@ -44,6 +44,6 @@
     "react-router-dom": "^6.4.2",
     "tap-spec": "^5.0.0",
     "tape": "^5.5.3",
-    "tiny-json-http": "^7.4.2"
+    "tiny-json-http": "^7.5.0"
   }
 }
